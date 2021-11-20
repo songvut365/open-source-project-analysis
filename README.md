@@ -26,8 +26,8 @@ Presentation : https://www.canva.com/design/DAEwPlz7Vo0/_BNFXyy47ozksiYPlmdFYQ/v
 5. Reusability
 
 ## Design Pattern
-1. Singleton Desgin Pattern
-2. Builder Desgin Pattern
-3. Observer Desgin Pattern
-4. Dependency Injection Desgin Pattern
+1. Singleton Design Pattern
+2. Builder Design Pattern
+3. Observer Design Pattern
+4. Dependency Injection Design Pattern
 5. Call Back (analysis)
