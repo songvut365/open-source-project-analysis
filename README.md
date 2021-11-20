@@ -1,14 +1,8 @@
-<center>
- <img src="https://www.mundeemak.com/admin/image/33708.png" alt="Project logo">
 
-</center>
-<center>
-Open Source Project Analysis
-</center>
+![enter image description here](https://www.mundeemak.com/admin/image/33708.png)
 
 
-
-<center>  <h1>Open Source project : PDFSAM</h1>  </center>
+<h1>Open Source project Analysis: PDFSAM</h1>
 
 ## สมาชิก
 1. 62015021 ชญานิน บัวสละ
