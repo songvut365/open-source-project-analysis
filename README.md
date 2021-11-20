@@ -18,7 +18,7 @@ Presentation : https://www.canva.com/design/DAEwPlz7Vo0/_BNFXyy47ozksiYPlmdFYQ/v
 ## Software Architecture
  - **N-Tier**
 
-## Qualiti Attribute
+## Quality Attribute
 1. Portability
 2. Usability
 3. Security
